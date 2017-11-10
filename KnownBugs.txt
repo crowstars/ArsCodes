@@ -1,0 +1,7 @@
+List of known issues that I am aware of and working on:
+
+- Window moves back to center of screen when it resizes itself
+
+- Window automatically resizes itself to default when elements are hidden/become visible even if window has been manually resized and is large enough to contain all of them
+
+- Despite running fine, program throws exceptions in console of IDE
