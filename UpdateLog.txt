@@ -1,5 +1,8 @@
 Update Log
 
+11/9/17 5:41 PM - Version 1.1.0
+Added Market element. Time and Market fields now hidden unless selected. Window now resizes automatically so that all components are visible. Decoded text can now be copied to clipboard.
+
 11/2/17 12:26 PM - Version 1.0.1
 Small changes to make the program more efficient. Realistically, this is not a noticable difference. It's not processing enough data to be visible, but the run time is decreased by a few microseconds. Realistically, I'm procrastinating my homework. 
 
