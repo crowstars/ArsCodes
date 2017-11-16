@@ -1,10 +1,13 @@
 Update Log
 
-11/9/17 5:49 PM - Version 1.1.0
+11/16/17 12:06 PM - Encoder Version 1.0.0
+First upload!
+
+11/9/17 5:49 PM - Decoder Version 1.1.0
 Now decodes with Market values. Time and Market fields now hidden unless selected. Window now resizes automatically so that all components are visible. Decoded text can now be copied to clipboard.
 
-11/2/17 12:26 PM - Version 1.0.1
+11/2/17 12:26 PM - Decoder Version 1.0.1
 Small changes to make the program more efficient. Realistically, this is not a noticable difference. It's not processing enough data to be visible, but the run time is decreased by a few microseconds. Realistically, I'm procrastinating my homework. 
 
-10/31/17 3:15 PM - Version 1.0.0
+10/31/17 3:15 PM - Decoder Version 1.0.0
 First upload!
