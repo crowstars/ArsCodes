@@ -1,4 +1,4 @@
-Hi! This is a program that can decode the numbers at the end of Ars Paradoxica episodes. 
+Hi! These are programs that can decode the numbers at the end of Ars Paradoxica episodes, and generate the numbers for your own messages. 
 
 Before running, you will need to have Java installed. Sorry, it’s the programming language I know best, but most computers don’t have it installed by default. You can download it here: https://java.com/en/download/ 
 Despite appearances/old web design, this is the official and safe Java download link. After that, go ahead and download the .jar file, and then just double click on the .jar file to run!
