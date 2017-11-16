@@ -4,6 +4,6 @@ List of known issues that I am aware of and working on:
 
 - Window automatically resizes itself to default when elements are hidden/become visible even if window has been manually resized and is large enough to contain all of them
 
-- Decoder does not decode or print error message when numbers field contains punctuation
-
 - Despite running fine, program throws exceptions in console of IDE
+
+- If message is longer than screen is wide, Encoder window becomes veeerrry long
