@@ -1,5 +1,11 @@
 Update Log
 
+11/21/17 8:01 PM - Decoder Version 1.1.2
+Now prints error message if numbers field contains any letters or punctuation other than "|" character. Fixed bug where window could expand past screen edges.
+
+11/21/17 8:01 PM - Encoder Version 1.0.1
+Fixed bug where if encoded numbers were too long, window would expand past screen edges.
+
 11/16/17 3:41 PM - Decoder Version 1.1.1
 Fixed bug where if numbers field had punctuation, it wouldn't decode or show an error message. Now shows an error message, eventually I might try to get it to put the punctuation back in after decoding.
 
