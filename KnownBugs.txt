@@ -6,4 +6,3 @@ List of known issues that I am aware of and working on:
 
 - Despite running fine, program throws exceptions in console of IDE
 
-- If message is longer than screen is wide, Encoder window becomes veeerrry long
