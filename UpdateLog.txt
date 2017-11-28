@@ -1,5 +1,8 @@
 Update Log
 
+11/28/17 10:53 AM - Decoder Version 2.0.0
+Ok so I had to completely rewrite how the program works in order to implement the second/combination color, and uh I'm the boss of this so I'm calling it version 2. It behaves pretty much like version 1 did, but a lot of the code is different. Plus, it can do combination colors now. Still have a couple tweaks I want to work out, mainly just efficiency stuff, so I'll probably be updating it again soon.
+
 11/21/17 8:01 PM - Decoder Version 1.1.2
 Now prints error message if numbers field contains any letters or punctuation other than "|" character. Fixed bug where window could expand past screen edges.
 
