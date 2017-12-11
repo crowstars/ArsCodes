@@ -1,5 +1,8 @@
 Update Log
 
+12/11/17 9:57 AM - Decoder Version 2.1.0
+Implemented Magenta! Sorry for the delay, I am rapidly approaching finals. 
+
 11/28/17 10:53 AM - Decoder Version 2.0.0
 Ok so I had to completely rewrite how the program works in order to implement the second/combination color, and uh I'm the boss of this so I'm calling it version 2. It behaves pretty much like version 1 did, but a lot of the code is different. Plus, it can do combination colors now. Still have a couple tweaks I want to work out, mainly just efficiency stuff, so I'll probably be updating it again soon.
 
